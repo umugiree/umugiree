@@ -1,4 +1,4 @@
-# Hi there, I'm Eugène Mugire 👋
+# Hi there, I'm Emmanuel Umugire 👋
 
 ## About Me
 I'm passionate about simplifying complexity—not to do less, but to foster clarity, calm, and a focus on constructive collaboration, whether working solo or within a team. My background is in IT Security, and I believe that strong, secure foundations are key to building technology that stands the test of time.
