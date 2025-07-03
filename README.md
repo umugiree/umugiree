@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Eugène Mugire 👋
 
-<!--
-**umugiree/umugiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm passionate about simplifying complexity—not to do less, but to foster clarity, calm, and a focus on constructive collaboration, whether working solo or within a team. My background is in IT Security, and I believe that strong, secure foundations are key to building technology that stands the test of time.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Programming Languages:** Java (with Eclipse), Python  
+- **Focus:** IT Security, Web Applications, Information Accessibility  
+- **Tools:** Eclipse IDE, Python ecosystem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Aspirations
+My goal is to grow into a versatile developer who contributes to projects that have a positive impact. I’m particularly interested in:
+- Building web applications
+- Creating tools that support education and capacity building
+- Developing systems that make information more accessible
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/eumugire)
+
+## ⚽ Fun Fact
+When I have time, I enjoy watching football (soccer)!
+
+---
+
+Let's connect and collaborate on projects that make a difference!
